@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 # trouble: script to demonstrate common errors
 
 number=1
