@@ -1,0 +1,1 @@
+wget http://labfile.oss.aliyuncs.com/courses/790/student_teacher.py
